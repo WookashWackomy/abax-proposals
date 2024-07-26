@@ -1,6 +1,10 @@
 ---
-layout: post
-title: Blogging Like a Hacker
+title: Deployment of Abax Lending Protocol
+author: Jane Doe (@JaneDoeGitHub)
+shortDescription: A proposal to deploy the Abax Lending Protocol, facilitating decentralized lending and borrowing on the Aleph Zero blockchain.
+discussions: https://example.com/forum-link
+created: 2024-07-26
+updated: N/A
 ---
 
 ## Simple Summary
